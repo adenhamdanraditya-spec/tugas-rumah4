@@ -4,7 +4,7 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 ## Tampilan
 ![Tampilan beranda portofolio](img/jadwal.PNG)
 ![Tampilan beranda portofolio](img/portofolio.PNG)
-![Tampilan beranda portofolio](img/Screenshot 2026-10-25 204757.png)
+![Tampilan beranda portofolio](C:\Users\ADEN\Documents\tugas_rumah 2\img\Screenshot 2026-10-25 204438.png)
 ## Fitur
 - Halaman **Beranda** berisi profil, hobi, cita-cita, keahlian, dan jadwal belajar
 - Halaman **Proyek** berisi daftar proyek dalam bentuk kartu
