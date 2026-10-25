@@ -2,7 +2,7 @@
 Website portofolio pribadi yang saya buat di Kelas Industri UBIG (Paket 1, Minggu 01 sampai 05).
 Website ini tampil rapi di ponsel, tablet, dan laptop.
 ## Tampilan
-![Tampilan beranda portofolio](tugas-rumah4_img_Screenshot 2026-10-25 204438.png)
+![Tampilan beranda portofolio](https://github.com/adenhamdanraditya-spec/tugas-rumah4/blob/main/img/Screenshot%202026-10-25%20204438.png?raw=true)
 ![Tampilan beranda portofolio]()
 ![Tampilan beranda portofolio]()
 ## Fitur
